@@ -10,6 +10,23 @@ p {
     padding: 0em 4em;
 }
 
+.exp1 {
+    text-align: left;
+    line-height: 0;
+}
+
+.exp-plain {
+    margin-bottom: 3.5em;
+}
+
+.exp-color {
+    color: #A3C7CC;
+}
+
+.exp-color, .exp-plain {
+    margin-left: 0.65em;
+}
+
 .navlist {
     background-color: #A3C7CC;
     width: 100%;
